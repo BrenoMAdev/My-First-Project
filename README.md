@@ -1,1 +1,3 @@
 Learning GIT and Github
+Context: I'm currently studying Full-Stack using JavaScript and Node.js (I'm at the very start of it, so I actually didn't get into JavaScript yet, I will in abouta week after writing and commiting this), I decided to already learn git and github by myself as I'm unsure if I will learn them at this Full-Stack course despite being complete and from one of the best schools here in Brazil. I saw all the course plan and what I would learn and didn't see git there so in case it really doesn't have, I will learn it by myself.
+Yes I'm brazillian, but I'm using english because I will move out of here to the UK next year and my main objective is build a portfolio here so I can get a part time job while I study math and machine learning in the future.
